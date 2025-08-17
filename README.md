@@ -140,7 +140,7 @@ If you found this project useful:
 
 - ⭐ Star the repo  
 - 🍴 Fork and improve it  
-- 💬 Leave feedback or suggestions  
+- 💬 Leave feedback or suggestions.
 - 📢 Share it with fellow data enthusiasts
 
 ---
